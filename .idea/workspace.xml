@@ -9,6 +9,9 @@
       <change afterPath="$PROJECT_DIR$/DataWarehouse/docker-compose.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DataWarehouse/src/main/java/com/example/datawarehouse/config/FxDealConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DataWarehouse/src/test/java/com/example/datawarehouse/domain/FxDealTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataWarehouse" beforeDir="false" afterPath="$PROJECT_DIR$/DataWarehouse" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataWarehouse/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataWarehouse/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataWarehouse/src/main/java/com/example/datawarehouse/aop/response/GenericResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataWarehouse/src/main/java/com/example/datawarehouse/aop/response/GenericResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataWarehouse/src/main/java/com/example/datawarehouse/aop/response/ResponseWrapperAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataWarehouse/src/main/java/com/example/datawarehouse/aop/response/ResponseWrapperAdvice.java" afterDir="false" />
@@ -31,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataWarehouse" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -133,7 +137,7 @@
       <workItem from="1658540436205" duration="229000" />
       <workItem from="1658540680331" duration="52000" />
       <workItem from="1658540755934" duration="174000" />
-      <workItem from="1658540941813" duration="3719000" />
+      <workItem from="1658540941813" duration="6469000" />
     </task>
     <servers />
   </component>
